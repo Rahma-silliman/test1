@@ -1,0 +1,102 @@
+body {
+  font-family: 'Bai Jamjuree', sans-serif;
+  font-family: 'DM Sans', sans-serif;
+  font-family: 'Roboto', sans-serif;
+}
+
+
+
+
+
+.form {
+  width: 50%;
+
+}
+
+
+span a {
+  color: rgb(50, 50, 50);
+  font-size: 12px;
+}
+
+input {
+  height: 1.5rem;
+
+  border-radius: 10px;
+}
+
+.container {
+  opacity: 0.7;
+  margin-top: 6rem;
+  text-align: center;
+}
+
+.row {
+  justify-content: center;
+}
+
+.btn {
+  margin-top: 1.9rem;
+  background-color: #4A96A6;
+  border-radius: 10px;
+}
+
+.btn a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.div {
+  margin: 2rem;
+
+
+}
+
+/*.premier{
+  
+  
+}
+
+p{
+  margin: 0;
+  padding: 0;
+}
+.green{
+  color: rgb(3, 125, 3);
+}
+.blue{
+  color: rgb(35, 35, 235);
+}
+
+
+
+#trai{
+  text-decoration: none;
+}
+button{
+  background-color: #4A96A6;
+}
+
+
+.blue,.green{
+  padding: 0;
+  margin: 0;
+}
+/*dexiem
+body{
+  background-color: ;
+}
+.container{
+  display: flex;
+}
+table{
+  border: 1px solid rgba(20, 19, 19);
+}
+td{
+  width: 90%;
+  border: 1px solid rgba(12, 12, 12,0.7);
+  border-collapse: separate;
+  justify-content: center;
+}
+*/

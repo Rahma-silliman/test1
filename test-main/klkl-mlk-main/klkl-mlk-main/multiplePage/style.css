@@ -1,0 +1,78 @@
+
+    .circle{
+   width: 10px;
+   height: 10px;
+   border-radius: 100%;
+   background-color: red;
+
+}
+.roug{
+    border-radius: 100%;
+    width: 20px;
+    height: 20px;
+    margin: auto;
+    background-color: #E7F9FD;
+}
+.fonc{
+    background-color:#4A96A6 ;
+    padding: 2rem;
+}
+.icon{
+    width: 170%;
+}
+svg{
+    background-color: red;
+    width: 90px;
+    height: 110px;
+   
+  
+}
+.box{
+    background: linear-gradient( to right, green,  red ); 
+    width: 20rem;
+}
+table{
+    font-size: 9px;
+}
+.circl{
+    fill:none;
+    stroke: white;
+    stroke-width: 9px;
+    transform: translate(5px,5px);
+  position: relative;
+    
+
+}
+.car{
+  
+margin-top: 35rem;
+}
+body{
+    background-color:  #E7F9FD;
+}
+a{
+    text-decoration: none;
+    color: rgb(120, 118, 118);
+}
+
+.clic{
+    width: 20%;
+    color: white;
+    background-color: #4A96A6;
+}
+.div{
+    border-radius: 1rem;
+}
+.bg{
+    background-color: #E7F9FD ;
+}
+.gris{
+    background-color: rgb(210, 209, 209);
+}
+.bg-red{
+    background-color: #4A96A6;
+}
+
+.taille{
+    font-size: 12px;
+}

@@ -1,0 +1,176 @@
+
+
+.circle{
+    width: 10px;
+    height: 10px;
+    border-radius: 100%;
+    background-color: red;
+ 
+ }
+ .roug{
+     border-radius: 100%;
+     width: 30px;
+     height: 30px;
+     margin: auto;
+     background-color:#83b8c2 ;
+ }
+ .fonc{
+     background-color:#4A96A6 ;
+     padding: 1rem;
+     border-radius: 10px;
+     width: 11rem;
+     height: 12rem;
+ }
+ .ps{
+     padding-left: 4rem;
+ }
+ .fon{
+     border: 0.9px solid #4A96A6;
+     border-radius: 10px;
+     padding: 1rem ;
+     width: 11rem;
+     height: 12rem;
+     background-color: white;
+ }
+ .icon{
+     width: 170%;
+ }
+ svg{
+     
+     width: 90px;
+     height: 90px;
+ 
+    
+   
+ }
+ .box{
+     background: linear-gradient( to right, green,  red ); 
+     width: 20rem;
+ }
+ 
+ 
+ .car{
+   
+ margin-top: 35rem;
+ }
+ body{
+     background-color:  #E7F9FD;
+ }
+ a{
+     text-decoration: none;
+     color: rgb(120, 118, 118);
+ }
+ li a:active{
+    background-color:#83b8c2  ;
+ }
+ li a:hover{
+   color:rgba(38, 36, 36, 0.5)
+ }
+ button {
+    color: white;
+ }
+ button a:hover{
+    color: white;
+ }
+ 
+ .cir{
+     fill:none;
+     stroke: white;
+     stroke-width: 9px;
+     stroke-linecap: round;
+     transform: translate(5px,5px);
+    position: relative;
+    stroke-dashoffset: 342;
+    stroke-dasharray: 219;
+ }
+ .circl{
+     fill:none;
+    
+    stroke:#3ba4b9;
+     stroke-width: 9px;
+     stroke-linecap: round;
+     transform: translate(5px,5px);
+   position: relative;
+   
+  
+     stroke-dashoffset: 187;
+   stroke-dasharray: 219;
+ }
+ 
+ 
+ 
+ span{
+     transform: translate(5px,5px);
+     top: 60%;
+     left: 35%;
+     font-size: 20px;
+ }
+ .ci{
+     fill:none;
+     stroke: #3ba4b9; 
+     stroke-width: 9px;
+     stroke-linecap: round;
+     transform: translate(5px,5px);
+    position: relative;
+   
+    stroke-dasharray: 115;
+    stroke-dashoffset: 146;
+ 
+ 
+    /* stroke-dashoffset: 209;
+    stroke-dasharray:187;
+   stroke-dashoffset: 342;
+    stroke-dasharray: 219;*/
+  
+ }
+ 
+ 
+ .circ{
+     fill:none;
+    
+     stroke:whitesmoke;
+      stroke-width: 9px;
+      stroke-linecap: round;
+      transform: translate(5px,5px);
+      position: relative;
+      stroke-dashoffset: 219;
+      stroke-dasharray: 166;
+     /*stroke-dashoffset: 510;
+      stroke-dasharray: 219;
+      stroke-dashoffset: 187;
+      stroke-dasharray: 219;*/
+   
+ }
+ .back{
+    background-color: rgb(232, 232, 232);
+ }
+ div input{
+    width: 50%;
+ }
+ 
+.clic{
+    width: 6rem;
+    height: 1.7%;
+    color: white;
+    background-color: #4A96A6;
+}
+.roun{
+    border-radius: 1rem;
+ }
+ 
+ .div{
+     border-radius: 1rem;
+ }
+ .bg{
+     background-color: #E7F9FD ;
+ }
+ .gris{
+     background-color: rgb(210, 209, 209);
+ }
+ .bg-red{
+     background-color:red;
+ }
+ .btnn{
+    background-color: #4A96A6;
+ }
+ 

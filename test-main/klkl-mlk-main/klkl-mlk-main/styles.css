@@ -1,0 +1,86 @@
+body {
+
+    font-family: 'Bai Jamjuree', sans-serif;
+    font-family: 'DM Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+
+
+header {
+    text-align: center;
+}
+
+.blue {
+    color: #00A7B0;
+}
+
+
+.green {
+    color: #6FAE26;
+}
+
+p {
+    text-align: center;
+  
+}
+strong{
+    font-size: 1rem;
+}
+span a{
+
+color: rgb(85, 83, 83);
+font-size: 12px;
+}
+
+
+
+.btn{
+    background-color:#4A96A6 ;
+    
+}
+button a{
+    color: white;
+    text-decoration: none;
+    
+}
+button a:hover{
+    color:white
+}
+
+
+
+/*
+.fr{
+    font-size: 12px;
+    margin-right: 8rem;
+    
+}
+a{
+    color: rgb(32, 31, 31,0.5);
+}
+button a{
+    text-decoration: none;
+    color: white;
+    font-weight: 12px;
+}
+button a:hover{
+color: white;
+}
+input{
+    width: 20%;
+    border-radius: 5px;
+    border: none;
+    border: solid rgb(28, 27, 27, 0.2);
+   
+    
+}
+button{
+    border: none;
+    border-radius: 5px;
+    width: 20%;
+    
+    background-color: #4A96A6;
+
+}
